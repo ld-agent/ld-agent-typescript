@@ -1,8 +1,4 @@
-# ld-agent TypeScript
-
-**Dynamic linking for agentic systems in TypeScript/JavaScript**
-
-ld-agent-ts is the TypeScript/JavaScript implementation of ld-agent, a dynamic linker for AI capabilities. Just like `ld-so` discovers and links shared libraries at runtime, ld-agent discovers and links agentic capabilities to create composable AI systems.
+# ld-agent-typeScript: Dynamic linking for agentic systems in TypeScript/JavaScript**
 
 ## Quick Start
 
