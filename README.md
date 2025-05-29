@@ -1,4 +1,5 @@
-# ld-agent-typeScript: Dynamic linking for agentic systems in TypeScript/JavaScript**
+# ld-agent-typeScript
+Dynamic linking for agentic systems in TypeScript/JavaScript**
 
 ## Quick Start
 
